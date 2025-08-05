@@ -9,7 +9,7 @@
       "value": ""
     },
     "parTopLevelManagementGroupDisplayName": {
-      "value": "Azure Landing Zones"
+      "value": "Air Methods"
     },
     "parTopLevelManagementGroupParentId": {
       "value": "airmethods-root"
@@ -27,7 +27,9 @@
       "value": {}
     },
     "parPlatformMgChildren": {
-      "value": {}
+      "value": {
+        ["Security"]
+      }
     },
     "parTelemetryOptOut": {
       "value": false
