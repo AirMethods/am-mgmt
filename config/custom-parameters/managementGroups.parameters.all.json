@@ -27,8 +27,8 @@
       "value": {}
     },
     "parPlatformMgChildren": {
-      security: {
-        displayName: "Security"
+      "security": {
+        "displayName": "Security"
       }
     },
     "parTelemetryOptOut": {
