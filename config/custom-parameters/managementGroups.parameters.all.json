@@ -31,8 +31,8 @@
         "security": {
           "displayName": "Security"
         }
-    }
-    }
+      }
+    },
     "parTelemetryOptOut": {
       "value": false
     }
