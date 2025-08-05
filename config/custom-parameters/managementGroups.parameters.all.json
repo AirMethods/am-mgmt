@@ -12,7 +12,7 @@
       "value": "Air Methods"
     },
     "parTopLevelManagementGroupParentId": {
-      "value": "airmethods-root"
+      "value": ""
     },
     "parLandingZoneMgAlzDefaultsEnable": {
       "value": true
@@ -27,10 +27,12 @@
       "value": {}
     },
     "parPlatformMgChildren": {
-      "security": {
-        "displayName": "Security"
-      }
-    },
+    "value": {
+        "security": {
+          "displayName": "Security"
+        }
+    }
+    }
     "parTelemetryOptOut": {
       "value": false
     }
