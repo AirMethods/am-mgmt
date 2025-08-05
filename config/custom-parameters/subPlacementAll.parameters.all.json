@@ -49,9 +49,11 @@
     },
     "parPlatformMgChildrenSubs": {
       "value": {
-        "security": [
-          "d843089f-a263-43dd-a6b8-e807954383bc"
-        ]
+        "security": {
+          "subscriptions": [
+            "d843089f-a263-43dd-a6b8-e807954383bc"
+          ]
+        }
       }
     },
     "parDecommissionedMgSubs": {
