@@ -24,11 +24,7 @@
       "value": false
     },
     "parLandingZoneMgChildren": {
-      "value": {
-        "choppa-platform": {
-          "displayName": "Choppa Platform"
-        }
-      }
+      "value": {}
     },
     "parPlatformMgChildren": {
     "value": {
