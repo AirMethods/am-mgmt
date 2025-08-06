@@ -41,7 +41,10 @@
       ]
     },
     "parLandingZonesOnlineMgSubs": {
-      "value": []
+      "value": [
+        "65c73094-8295-4b5d-8eff-e06e39094ce2",
+        "3478293b-3e13-4a0c-b8bc-6ece0972b8f4"
+      ]
     },
     "parLandingZonesConfidentialCorpMgSubs": {
       "value": []
