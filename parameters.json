@@ -15,6 +15,6 @@
   "MANAGEMENT_GROUP_ID": "am",
   "PREFIX": "am",
   "RELEASE_VERSION": "v0.22.3",
-  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "airmethods-root",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "am",
   "SECONDARYLOCATION": "westus"
 }
