@@ -34,11 +34,17 @@
     },
     "parLandingZonesCorpMgSubs": {
       "value": [
-        "9beb8b07-e833-47c5-8569-0b6921509a62"
+        "9beb8b07-e833-47c5-8569-0b6921509a62",
+        "ff9aca94-07dd-4178-8e58-5b9a9c5cd387",
+        "bd024f02-e874-431c-ac0e-6097c3e857c5",
+        "67dc3781-c828-4026-9dec-d381747dfd8b"
       ]
     },
     "parLandingZonesOnlineMgSubs": {
-      "value": []
+      "value": [
+        "65c73094-8295-4b5d-8eff-e06e39094ce2",
+        "3478293b-3e13-4a0c-b8bc-6ece0972b8f4"
+      ]
     },
     "parLandingZonesConfidentialCorpMgSubs": {
       "value": []
@@ -47,15 +53,7 @@
       "value": []
     },
     "parLandingZoneMgChildrenSubs": {
-      "value": {
-        "choppa-platform": {
-          "subscriptions": [
-            "ff9aca94-07dd-4178-8e58-5b9a9c5cd387",
-            "bd024f02-e874-431c-ac0e-6097c3e857c5",
-            "67dc3781-c828-4026-9dec-d381747dfd8b"
-          ]
-        }
-      }
+      "value": []
     },
     "parPlatformMgChildrenSubs": {
       "value": {
