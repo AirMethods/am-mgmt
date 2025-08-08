@@ -12,7 +12,7 @@
       "value": ""
     },
     "parDdosEnabled": {
-      "value": true
+      "value": false
     },
     "parPlatformMgAlzDefaultsEnable": {
       "value": true
@@ -24,10 +24,10 @@
       "value": false
     },
     "parLogAnalyticsWorkSpaceAndAutomationAccountLocation": {
-      "value": "eastus2"
+      "value": "eastus"
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-am-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-mgmt-eus-shared/providers/microsoft.operationalinsights/workspaces/log-mgmt-eus-shared"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
       "value": "365"
@@ -36,28 +36,28 @@
       "value": "allLogs"
     },
     "parDataCollectionRuleVMInsightsResourceId": {
-      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-am-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-vmi-dcr"
+      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-mgmt-eus-shared/providers/Microsoft.Insights/dataCollectionRules/dcr-mgmt-vmi-eus-shared"
     },
     "parDataCollectionRuleChangeTrackingResourceId": {
-      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-am-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-ct-dcr"
+      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-mgmt-eus-shared/providers/Microsoft.Insights/dataCollectionRules/dcr-mgmt-ct-eus-shared"
     },
     "parDataCollectionRuleMDFCSQLResourceId": {
-      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-am-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-mdfcsql-dcr"
+      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-mgmt-eus-shared/providers/Microsoft.Insights/dataCollectionRules/dcr-mgmt-mdfcsql-eus-shared"
     },
     "parUserAssignedManagedIdentityResourceId": {
-      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-am-logging/providers/Microsoft.ManagedIdentity/userAssignedIdentities/alz-umi-identity"
+      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-mgmt-eus-shared/providers/Microsoft.ManagedIdentity/userAssignedIdentities/umi-mgmt-eus-shared"
     },
     "parAutomationAccountName": {
-      "value": "alz-automation-account"
+      "value": "aa-mgmt-eus-shared"
     },
     "parMsDefenderForCloudEmailSecurityContact": {
       "value": "melatta@airmethods.com"
     },
     "parDdosProtectionPlanId": {
-      "value": "/subscriptions/25ba9c1e-345e-488e-90d5-fd0e8cf27804/resourceGroups/rg-am-connectivity/providers/Microsoft.Network/ddosProtectionPlans/alz-ddos-plan"
+      "value": ""
     },
     "parPrivateDnsResourceGroupId": {
-      "value": "/subscriptions/25ba9c1e-345e-488e-90d5-fd0e8cf27804/resourceGroups/rg-am-connectivity"
+      "value": "/subscriptions/2bffaff5-ef39-4d76-9f67-406b597c3fb2/resourceGroups/rg-am-connectivity"
     },
     "parPrivateDnsZonesLocation": {
       "value": "eastus"

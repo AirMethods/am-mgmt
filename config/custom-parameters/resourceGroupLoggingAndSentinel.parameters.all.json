@@ -6,7 +6,7 @@
       "value": "eastus"
     },
     "parResourceGroupName": {
-      "value": "rg-am-logging"
+      "value": "rg-mgmt-eus-shared"
     },
     "parTags": {
       "value": {

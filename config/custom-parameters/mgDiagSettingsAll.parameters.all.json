@@ -18,10 +18,10 @@
       "value": false
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-am-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/c4b3ae5b-41f5-428b-9dd9-40e8ed96a880/resourcegroups/rg-mgmt-eus-shared/providers/microsoft.operationalinsights/workspaces/log-mgmt-eus-shared"
     },
     "parDiagnosticSettingsName": {
-      "value": "toLa"
+      "value": "toLogAnalytics"
     },
     "parLandingZoneMgChildren": {
       "value": []
