@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parLogAnalyticsWorkspaceName": {
-      "value": "alz-log-analytics"
+      "value": "log-mgmt-eus-shared"
     },
     "parLogAnalyticsWorkspaceLocation": {
-      "value": "eastus2"
+      "value": "eastus"
     },
     "parLogAnalyticsWorkspaceSkuName": {
       "value": "PerGB2018"
@@ -27,28 +27,28 @@
       "value": "PerfAndMap"
     },
     "parDataCollectionRuleVMInsightsName": {
-      "value": "alz-ama-vmi-dcr"
+      "value": "dcr-mgmt-vmi-eus-shared"
     },
     "parDataCollectionRuleChangeTrackingName": {
-      "value": "alz-ama-ct-dcr"
+      "value": "dcr-mgmt-ct-eus-shared"
     },
     "parDataCollectionRuleMDFCSQLName": {
-      "value": "alz-ama-mdfcsql-dcr"
+      "value": "dcr-mgmt-mdfcsql-eus-shared"
     },
     "parUserAssignedManagedIdentityName": {
-      "value": "alz-umi-identity"
+      "value": "umi-mgmt-eus-shared"
     },
     "parUserAssignedManagedIdentityLocation": {
       "value": "eastus"
     },
     "parAutomationAccountEnabled": {
-      "value": false
+      "value": true
     },
     "parLogAnalyticsWorkspaceLinkAutomationAccount": {
-      "value": false
+      "value": true
     },
     "parAutomationAccountName": {
-      "value": "alz-automation-account"
+      "value": "aa-mgmt-eus-shared"
     },
     "parAutomationAccountLocation": {
       "value": "eastus"
@@ -57,7 +57,7 @@
       "value": true
     },
     "parAutomationAccountPublicNetworkAccess": {
-      "value": true
+      "value": false
     },
     "parTags": {
       "value": {
@@ -66,12 +66,12 @@
     },
     "parLogAnalyticsWorkspaceTags": {
       "value": {
-        "Environment": "Live"
+        "Environment": "live"
       }
     },
     "parAutomationAccountTags": {
       "value": {
-        "Environment": "Live"
+        "Environment": "live"
       }
     },
     "parLogAnalyticsLinkedServiceAutomationAccountName": {
